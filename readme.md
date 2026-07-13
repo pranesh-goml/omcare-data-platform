@@ -9,3 +9,4 @@ Create a feature branch named feature/pranesh-setup.
 Add a one-line placeholder file in each folder and commit with a conventional message (e.g. feat: initial repo structure).
 Push the branch and write out, in your own words, the exact PR → Code Review → Merge → Deploy sequence you would follow next.
 ### now i have completed the task and i am closing the task
+this is from personal
